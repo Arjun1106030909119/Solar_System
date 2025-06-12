@@ -17,7 +17,8 @@ An interactive and visually-rich 3D simulation of the Solar System built using [
 
 ## 📷 Preview
 
-![solar-system-simulator](https://user-images.githubusercontent.com/your-image-url.png) <!-- Replace with a real screenshot or animated GIF -->
+![image](https://github.com/user-attachments/assets/ae78ff29-7ae8-4e48-8ff0-9bdf6a3cc46a)
+ 
 
 ---
 
