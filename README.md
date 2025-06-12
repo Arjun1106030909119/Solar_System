@@ -18,6 +18,8 @@ An interactive and visually-rich 3D simulation of the Solar System built using [
 ## 📷 Preview
 
 ![image](https://github.com/user-attachments/assets/ae78ff29-7ae8-4e48-8ff0-9bdf6a3cc46a)
+
+https://arjun1106030909119.github.io/Solar_System/
  
 
 ---
@@ -127,16 +129,13 @@ solar-system-simulator/
 
 ---
 
-## 📄 License
 
-MIT License © 2025 \[Your Name]
-
----
 
 ## 🙌 Credits
 
 * Planet textures: [Solar System Scope](https://www.solarsystemscope.com/textures/)
 * Data sources: NASA, ESA
 * 3D framework: [Three.js](https://threejs.org/)
+  
 
 ---
